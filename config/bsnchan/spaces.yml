@@ -1,0 +1,4 @@
+org: bsnchan
+spaces:
+- bsnchan
+enable-delete-spaces: true
